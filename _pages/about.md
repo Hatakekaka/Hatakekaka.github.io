@@ -44,19 +44,16 @@ My research interest includes neural machine translation and computer vision. I 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- 
 - **Global 1st Prize (3rd Place Overall)**, RoboTwin Dual-Arm Collaboration Challenge 2nd MEIS Workshop@CVPR2025 (Real-World Track).
 - **Global 2nd Prize**, RoboTwin Dual-Arm Collaboration Challenge 2nd MEIS Workshop@CVPR2025 (Simulation Round 1).
-- **National 2nd Prize**, The 20th China Graduate Electronics Design Contest, 2025
+- **National 2nd Prize**, The 20th China Graduate Electronics Design Contest, 2025.
 - **National Grand Prize (3rd Place Overall)**, The 16th "Siemens Cup" China Intelligent Manufacturing Challenge (CIMC), 2022.
 - **Top 10% Globally**, IEEEXtreme 19.0 & 18.0 Programming Competition.
 # 📖 Educations
-- * M.S., School of Information and Communication Engineering, University of Electronic Science and Technology of China (UESTC), 2024.09 - Present.
-    * **Star of Innovation**, 2025.
-- * B.E., School of Information Engineering, Wuhan University of Technology (WHUT), 2020.09 - 2024.06.
-    * **Outstanding Graduates**, 2024.
+- M.S., School of Information and Communication Engineering, University of Electronic Science and Technology of China (UESTC), 2024.09 - Present.
+  - **Star of Innovation**, 2025.
+- B.E., School of Information Engineering, Wuhan University of Technology (WHUT), 2020.09 - 2024.06.
+  - **Outstanding Graduates**, 2024.
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -64,5 +61,5 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
-- VLA Algorithm Intern, Lumos Robotics (Innovative AI Lab), 2026.01 - 2026.03.
+- VLA Algorithm Intern, [Lumos Robotics](https://www.lumosbot.tech/) (Innovative AI Lab), 2026.01 - 2026.03.
   - Focused on building in-house VLA models for rigid and deformable object manipulation tasks utilizing AgileX PiPER dual-arm robots.
