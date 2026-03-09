@@ -42,9 +42,9 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-- [3D Object Fusion Detection Method for Complex Scenarios in Embedded Systems](http://whlgdxxb.magtech.org.cn/CN/Y2023/V45/I6/153), Xiaoxu Wei,**Jun Chen**, Yongsheng Wang, Chang Zhang, Minghao Hou.(First Student Author), **JOURNAL OF WUHAN UNIVERSITY OF TECHNOLOGY**
+- [3D Object Fusion Detection Method for Complex Scenarios in Embedded Systems](http://whlgdxxb.magtech.org.cn/CN/Y2023/V45/I6/153), Xiaoxu Wei,**Jun Chen**, Yongsheng Wang, Chang Zhang, Minghao Hou.(First Student Author), **JOURNAL OF WUHAN UNIVERSITY OF TECHNOLOGY**.
 
-- [An FPGA-Based Hardware Low-Cost, Low-Consumption Target-Recognition and Sorting System](https://www.mdpi.com/2032-6653/14/9/245), Yulu Wang, Yi Han, **JunChen**, ZhouWang, YiZhong.(Second Student Author), **World Electric Vehicle Journal**
+- [An FPGA-Based Hardware Low-Cost, Low-Consumption Target-Recognition and Sorting System](https://www.mdpi.com/2032-6653/14/9/245), Yulu Wang, Yi Han, **Jun Chen**, Zhou Wang, Yi Zhong.(Second Student Author), **World Electric Vehicle Journal**.
 
 # 🧵 Projects 
 
