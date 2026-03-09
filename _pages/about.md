@@ -18,15 +18,16 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🤖 About me
-I am Jun Chen, currently pursuing a Master's degree at the School of Information and Communication Engineering, University of Electronic Science and Technology of China (UESTC). My research and project interests lie primarily in the field of Embodied AI, with a specific focus on Vision-Language-Action (VLA) models, dual-arm robotic manipulation, and multi-source sensor fusion.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am Jun Chen, currently pursuing a Master's degree at the School of Information and Communication Engineering, University of Electronic Science and Technology of China (UESTC). My research and project interests currently lie primarily in the field of Embodied AI, with a specific focus on Vision-Language-Action (VLA) models, imitation learning, and dual-arm robotic manipulation. Additionally, I am interested in embedded applications and multi-view perception. Previously, I interned at Lumos Robotics, where my research focused on VLA models for dual-arm robotic manipulation.
 
 {% comment %}
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 {% endcomment %}
+
+
+# 🔥 News
+- *2025.06*: &nbsp;🎉🎉 [Our team wins a first prize in RoboTwin Dual-Arm Collaboration Challenge of CVPR2025 (Real-world Track)!](https://miaa.cc/2025-06-19-robotwin-challenge/). 
+- *2025.05*: &nbsp;🎉🎉 [Our team wins a silver medal in RoboTwin Dual-Arm Collaboration Challenge of CVPR2025(Simulation Round 1)!](https://miaa.cc/2025-05-08-robotwin-challenge/). 
 
 # 📝 Publications 
 \* equal contribution 
@@ -42,9 +43,13 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-- [3D Object Fusion Detection Method for Complex Scenarios in Embedded Systems](http://whlgdxxb.magtech.org.cn/CN/Y2023/V45/I6/153), Xiaoxu Wei,**Jun Chen**, Yongsheng Wang, Chang Zhang, Minghao Hou.(First Student Author), **JOURNAL OF WUHAN UNIVERSITY OF TECHNOLOGY**.
+- Multi-View HRRP Target Recognition Based on Unified Anchor Subspace Learning and TSK Fuzzy Logic, **Jun Chen**, Hao Wan, Jing Liang. **IRC 2025**.
 
-- [An FPGA-Based Hardware Low-Cost, Low-Consumption Target-Recognition and Sorting System](https://www.mdpi.com/2032-6653/14/9/245), Yulu Wang, Yi Han, **Jun Chen**, Zhou Wang, Yi Zhong.(Second Student Author), **World Electric Vehicle Journal**.
+- [Classification and Positioning of Circuit Board Components Based on Improved YOLOv5](https://www.sciencedirect.com/science/article/pii/S1877050922015265), **Jun Chen**, Erdemt Bao, Jingyu Pan. **IISA 2022**.
+ 
+- [3D Object Fusion Detection Method for Complex Scenarios in Embedded Systems](http://whlgdxxb.magtech.org.cn/CN/Y2023/V45/I6/153), Xiaoxu Wei,**Jun Chen**, Yongsheng Wang, Chang Zhang, Minghao Hou. **Journal Of Wuhan University Of Technology 2023**, (First Student Author).
+
+- [An FPGA-Based Hardware Low-Cost, Low-Consumption Target-Recognition and Sorting System](https://www.mdpi.com/2032-6653/14/9/245), Yulu Wang, Yi Han, **Jun Chen**, Zhou Wang, Yi Zhong. **World Electric Vehicle Journal 2023**, (Second Student Author).
 
 # 🧵 Projects 
 
