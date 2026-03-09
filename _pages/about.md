@@ -31,7 +31,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 \* equal contribution 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In submission</div><img src='images/arxiv2026-framwork.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In submission</div><img src='images/arxiv-framwork.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Dual-Process Atomic Skill Learning for Long-Horizon Manipulation Tasks](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
