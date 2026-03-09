@@ -42,20 +42,9 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JOURNAL OF WUHAN UNIVERSITY OF TECHNOLOGY</div><img src='images/fig-whut.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- [3D Object Fusion Detection Method for Complex Scenarios in Embedded Systems](http://whlgdxxb.magtech.org.cn/CN/Y2023/V45/I6/153), Xiaoxu Wei,**Jun Chen**, Yongsheng Wang, Chang Zhang, Minghao Hou.(First Student Author), **JOURNAL OF WUHAN UNIVERSITY OF TECHNOLOGY**
 
-[3D Object Fusion Detection Method for Complex Scenarios in Embedded Systems](http://whlgdxxb.magtech.org.cn/CN/Y2023/V45/I6/153)
-
-Xiaoxu Wei,**Jun Chen**, Yongsheng Wang, Chang Zhang, Minghao Hou.(First Student Author)
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- JOURNAL OF WUHAN UNIVERSITY OF TECHNOLOGY. 
-</div>
-</div>
-
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [An FPGA-Based Hardware Low-Cost, Low-Consumption Target-Recognition and Sorting System](https://www.mdpi.com/2032-6653/14/9/245), Yulu Wang, Yi Han, **JunChen**, ZhouWang, YiZhong.(Second Student Author), **World Electric Vehicle Journal**
 
 # 🧵 Projects 
 
