@@ -28,7 +28,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
-\* equal contribution 
+<p style="margin-bottom: 5px;">* equal contribution</p>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">In submission</div><img src='images/arxiv2026-framwork.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
