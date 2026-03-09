@@ -28,7 +28,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
-<p style="margin-bottom: 5px;">* equal contribution</p>
+\* equal contribution 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">In submission</div><img src='images/arxiv2026-framwork.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -56,9 +56,11 @@ My research interest includes neural machine translation and computer vision. I 
 - B.E., School of Information Engineering, Wuhan University of Technology (WHUT), 2020.09 - 2024.06.
   - **Outstanding Graduates**, 2024.
 
+{% comment %}
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+{% comment %}
 
 # 💻 Internships
 - VLA Algorithm Intern, [Lumos Robotics](https://www.lumosbot.tech/) (Innovative AI Lab), 2026.01 - 2026.03.
