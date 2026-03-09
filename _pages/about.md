@@ -43,7 +43,6 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-- Multi-View HRRP Target Recognition Based on Unified Anchor Subspace Learning and TSK Fuzzy Logic, **Jun Chen**, Hao Wan, Jing Liang. **IRC 2025**.
 
 - [Classification and Positioning of Circuit Board Components Based on Improved YOLOv5](https://www.sciencedirect.com/science/article/pii/S1877050922015265), **Jun Chen**, Erdemt Bao, Jingyu Pan. **IISA 2022**.
  
