@@ -72,5 +72,5 @@ My research interest includes neural machine translation and computer vision. I 
 {% endcomment %}
 
 # 💻 Internships
-- VLA Algorithm Intern, [Lumos Robotics](https://www.lumosbot.tech/) (Innovative AI Lab), 2026.01 - 2026.03.
+- VLA Algorithm Intern, [Lumos Robotics](https://www.lumosbot.tech/) (Innovative AI Lab), 2026.03 - Present.
   - Focused on building in-house VLA models for rigid and deformable object manipulation tasks utilizing AgileX PiPER dual-arm robots.
