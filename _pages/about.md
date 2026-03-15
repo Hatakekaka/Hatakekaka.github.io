@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🤖 About me
-I am Jun Chen, currently pursuing a Master's degree at the School of Information and Communication Engineering, University of Electronic Science and Technology of China (UESTC). My research and project interests currently lie primarily in the field of Embodied AI, with a specific focus on Vision-Language-Action (VLA) models, imitation learning, and dual-arm robotic manipulation. Additionally, I am interested in embedded applications and multi-view learning. Previously, I interned at Lumos Robotics, where my research focused on VLA models for dual-arm robotic manipulation.
+I am Jun Chen, currently pursuing a Master's degree at the School of Information and Communication Engineering, University of Electronic Science and Technology of China (UESTC). My research and project interests currently lie primarily in the field of Embodied AI, with a specific focus on Vision-Language-Action (VLA) models, imitation learning, and dual-arm robotic manipulation. Additionally, I am interested in embedded applications and multi-view learning. I interned at Lumos Robotics, where my research focused on VLA models for dual-arm robotic manipulation.
 
 I am currently looking for opportunities to apply for Fall 2027 PhD programs.
 
