@@ -113,7 +113,7 @@ My research interest includes neural machine translation and computer vision. I 
       MIAA Lab
     </div>
     <div class="pub-authors">
-      Research Intern
+      Research Assistant
     </div>
     <div class="pub-links">
       2025 - Present &nbsp;|&nbsp; Focused on Robot Skill Learning.
