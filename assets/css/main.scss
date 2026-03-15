@@ -107,3 +107,113 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+/* Education section: logo left, text right */
+.edu-entry {
+  display: flex;
+  align-items: flex-start;
+  gap: 1.2rem;
+  margin-bottom: 1.8rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid #eee;
+  &:last-child { border-bottom: none; margin-bottom: 0; }
+}
+.edu-logo {
+    flex-shrink: 0;
+    width: 300px; /* 给所有 logo 设定一个统一的宽度列，这样右侧的文字会完美对齐 */
+    height: 120px; /* 给容器一个固定高度 */
+    display: flex;
+    align-items: center; /* 让不同高度的 logo 都能垂直居中 */
+    justify-content: center; /* 水平居中 */
+    
+    img {
+      max-width: 100% !important; /* 强制图片的宽度不能超过 180px */
+      max-height: 100% !important; /* 强制图片的高度不能超过 120px */
+      width: auto !important;
+      height: auto !important;
+      object-fit: contain; /* 保证图片等比例缩放，绝对不会变形拉伸 */
+    }
+  }
+.edu-text {
+  flex: 1;
+  line-height: 1.6;
+  font-size: 0.95rem;
+  a { text-decoration: none; }
+}
+
+/* Publications 排版优化 (类似图2风格) */
+.pub-title {
+    font-size: 1.2rem;
+    font-weight: bold;
+    line-height: 1.3;
+    margin-bottom: 0.4rem;
+  }
+  .pub-title a {
+    color: #004a99; /* 经典的学术深蓝色 */
+    text-decoration: none;
+  }
+  .pub-title a:hover {
+    text-decoration: underline;
+  }
+  
+  .pub-authors {
+    font-size: 1rem;
+    color: #111;
+    margin-bottom: 0.4rem;
+    line-height: 1.4;
+  }
+  
+  .pub-venue {
+    font-size: 1rem;
+    color: #cc0000; /* 醒目的学术红 */
+    font-style: italic;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+  }
+  
+  .pub-links {
+    font-size: 0.95rem;
+    color: #666; /* 斜杠的颜色 */
+  }
+  .pub-links a {
+    color: #0066cc; /* 链接的浅蓝色 */
+    text-decoration: none;
+  }
+  .pub-links a:hover {
+    text-decoration: underline;
+  }
+  
+  /* 稍微调整一下图片和文字的比例，让文字有更多空间展示 */
+  @media (min-width: 48em) {
+    .paper-box .paper-box-image {
+      max-width: 32% !important; /* 原来是 40%，改小一点更像图2 */
+    }
+    .paper-box .paper-box-text {
+      max-width: 68% !important; /* 文字区域扩大 */
+    }
+  }
+
+
+  /* 统一全局字体：强制顶部导航栏和左侧边栏使用 Open Sans */
+body,
+.masthead,
+.masthead__menu-item a, /* 顶部导航栏文字 */
+.greedy-nav a,
+.sidebar,
+.author__name, /* 左侧边栏：你的名字 */
+.author__bio,  /* 左侧边栏：自我介绍 */
+.author__urls li, /* 左侧边栏：联系方式列表 */
+.author__urls a {
+  font-family: 'Open Sans', "Segoe UI", Roboto, Helvetica, Arial, sans-serif !important;
+}
+
+/* 稍微优化一下左侧名字和简介的粗细，让它更好看 */
+.author__name {
+  font-weight: 700 !important; /* 名字加粗一点，更显眼 */
+  color: #222;
+}
+
+.author__bio {
+  color: #444; /* 简介文字颜色稍微调柔和一点 */
+  line-height: 1.5;
+}
