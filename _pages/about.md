@@ -311,7 +311,6 @@ My research interest includes neural machine translation and computer vision. I 
     </div>
     </div>
   </div>
-</div>
 
 
 
