@@ -49,36 +49,22 @@ My research interest includes neural machine translation and computer vision. I 
 <div class="edu-entry">
   <div class="edu-logo"><img src="images/uestc.png" alt="UESTC"></div>
   <div class="edu-text">
-    <div class="pub-title">
-      <span style="color: #004a99;">University of Electronic Science and Technology of China (UESTC)</span>
-    </div>
-    <div class="pub-authors">
-      School of Information and Communication Engineering
-    </div>
-    <div class="pub-authors">
-      M.S. in Electronic Information
-    </div>
-    <div class="pub-links">
-      2024.09 - 2027.06 (expected) &nbsp;|&nbsp; Star of Innovation, 2025.
-    </div>
+    <strong><a href="https://www.uestc.edu.cn/" style="color:#0066cc;">University of Electronic Science and Technology of China (UESTC)</a></strong><br>
+    <a href="https://www.sice.uestc.edu.cn/" style="color:#0066cc; font-weight:normal;">School of Information and Communication Engineering</a><br>
+    M.S. in Electronic Information<br>
+    <span style="color:#555;">2024.09 - 2027.06(expected)</span><br>
+    <span style="color:#555;">Star of Innovation, 2025.</span>
   </div>
 </div>
 
 <div class="edu-entry">
-  <div class="edu-logo"><img src="images/whut.png" alt="WHUT"></div>
+  <div class="edu-logo"><img src="images/whut.png" alt="WHUT" ></div>
   <div class="edu-text">
-    <div class="pub-title">
-      <span style="color: #004a99;">Wuhan University of Technology (WHUT)</span>
-    </div>
-    <div class="pub-authors">
-      School of Information Engineering
-    </div>
-    <div class="pub-authors">
-      B.E. in Electronic Information Engineering
-    </div>
-    <div class="pub-links">
-      2020.09 - 2024.06 &nbsp;|&nbsp; Outstanding Graduates, 2024.
-    </div>
+    <strong><a href="https://www.whut.edu.cn/" style="color:#0066cc;">Wuhan University of Technology (WHUT)</a></strong><br>
+    <a href="http://wutinfo.whut.edu.cn/" style="color:#0066cc; font-weight:normal;">School of Information Engineering</a><br>
+    B.E. in Electronic Information Engineering<br>
+    <span style="color:#555;">2020.09 - 2024.06</span><br>
+    <span style="color:#555;">Outstanding Graduates, 2024.</span>
   </div>
 </div>
 
@@ -86,41 +72,26 @@ My research interest includes neural machine translation and computer vision. I 
 # 💻 Research Experience
 
 <div class="edu-entry">
-  <div class="edu-logo"><img src="images/lumos_logo.png" alt="Lumos Robotics"></div>
+  <div class="edu-logo"><img src="images/lumos_logo.png" alt="Lumos Robotics" ></div>
   <div class="edu-text">
-    <div class="pub-title">
-      <span style="color: #004a99;">Lumos Robotics</span>
-    </div>
-    <div class="pub-authors">
-      Innovative AI Lab
-    </div>
-    <div class="pub-authors">
-      VLA Algorithm Intern
-    </div>
-    <div class="pub-links">
-      2026 - Present &nbsp;|&nbsp; Focused on building VLA models for manipulation tasks.
-    </div>
+    <strong><a href="https://www.lumosbot.tech/" style="color:#0066cc;">Lumos Robotics</a></strong><br>
+    <span style="color:#0066cc; font-weight:normal;">Innovative AI Lab</span><br>
+    VLA Algorithm Intern<br>
+    <span style="color:#555;">2026 - Present</span><br>
+    <span style="color:#555;">Focused on building VLA models for manipulation tasks.</span>
   </div>
 </div>
 
 <div class="edu-entry">
-  <div class="edu-logo"><img src="images/scut.png" alt="scut"></div>
+  <div class="edu-logo"><img src="images/scut.png" alt="scut" ></div>
   <div class="edu-text">
-    <div class="pub-title">
-      <span style="color: #004a99;">South China University of Technology</span>
-    </div>
-    <div class="pub-authors">
-      MIAA Lab
-    </div>
-    <div class="pub-authors">
-      Research Assistant
-    </div>
-    <div class="pub-links">
-      2025 - Present &nbsp;|&nbsp; Focused on Robot Skill Learning.
-    </div>
+    <strong><a href="https://www.scut.edu.cn/new/" style="color:#0066cc;">South China University of Technology</a></strong><br>
+    <a href="https://miaa.cc/" style="color:#0066cc; font-weight:normal;">MIAA Lab</a><br>
+    Research Intern<br>
+    <span style="color:#555;">2025 - Present</span><br>
+    <span style="color:#555;">Focused on Robot Skill Learning.</span>
   </div>
 </div>
-
 
 
 
