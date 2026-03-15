@@ -20,6 +20,8 @@ redirect_from:
 # 🤖 About me
 I am Jun Chen, currently pursuing a Master's degree at the School of Information and Communication Engineering, University of Electronic Science and Technology of China (UESTC). My research and project interests currently lie primarily in the field of Embodied AI, with a specific focus on Vision-Language-Action (VLA) models, imitation learning, and dual-arm robotic manipulation. Additionally, I am interested in embedded applications and multi-view learning. Previously, I interned at Lumos Robotics, where my research focused on VLA models for dual-arm robotic manipulation.
 
+I am currently looking for opportunities to apply for Fall 2027 PhD programs.
+
 {% comment %}
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 {% endcomment %}
@@ -30,25 +32,87 @@ My research interest includes neural machine translation and computer vision. I 
 - *2025.05*: &nbsp;🎉🎉 [Our team wins a silver medal in RoboTwin Dual-Arm Collaboration Challenge of CVPR2025(Simulation Round 1)!](https://miaa.cc/2025-05-08-robotwin-challenge/). 
 
 # 📝 Publications 
-\* equal contribution 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In submission</div><img src='images/arxiv-framwork.png' alt="sym" width="100%"></div></div>
+\* equal contribution. † Corresponding author.
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/arxiv-framwork.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Dual-Process Atomic Skill Learning for Long-Horizon Manipulation Tasks](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-**Jun Chen\***, Erdemt Bao\*, Wenlong Dong, Jierui Liu, Hao Wan, Jing Liang, Shaopeng Li, Weijun Qin, Huiping Zhuang.(Co-first author)
+**Jun Chen\***, Erdemt Bao\*, Wenlong Dong, Jierui Liu, Hao Wan, Jing Liang, Shaopeng Li, Weijun Qin, Huiping Zhuang†.(Co-first author)
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- In submission. 
+[**Project**](https://hatakekaka.github.io/DASL/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- **Under Review**
 </div>
 </div>
 
 
-- [Classification and Positioning of Circuit Board Components Based on Improved YOLOv5](https://www.sciencedirect.com/science/article/pii/S1877050922015265), **Jun Chen**, Erdemt Bao, Jingyu Pan. **IISA 2022**.
- 
-- [3D Object Fusion Detection Method for Complex Scenarios in Embedded Systems](http://whlgdxxb.magtech.org.cn/CN/Y2023/V45/I6/153), Xiaoxu Wei,**Jun Chen**, Yongsheng Wang, Chang Zhang, Minghao Hou. **Journal Of Wuhan University Of Technology 2023**, (First Student Author).
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IRC 2025</div><img src='images/TSK.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-- [An FPGA-Based Hardware Low-Cost, Low-Consumption Target-Recognition and Sorting System](https://www.mdpi.com/2032-6653/14/9/245), Yulu Wang, Yi Han, **Jun Chen**, Zhou Wang, Yi Zhong. **World Electric Vehicle Journal 2023**, (Second Student Author).
+[Multi-view HRRP target recognition based on unified anchor subspace learning and TSK fuzzy logic]()
+
+ **Jun Chen**, Hao Wan, Jing Liang†.
+- **IRC 2025**
+</div>
+</div>
+
+
+
+
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal Of Wuhan University Of Technology 2023</div><video src='videos/whut.mp4' autoplay loop muted controls style='width:100%; max-width:100%;'></video></div></div>
+<div class='paper-box-text' markdown="1">
+
+[3D Object Fusion Detection Method for Complex Scenarios in Embedded Systems](http://whlgdxxb.magtech.org.cn/CN/Y2023/V45/I6/153)
+
+ Xiaoxu Wei,**Jun Chen**, Yongsheng Wang, Chang Zhang, Minghao Hou.(First Student Author)
+- **Journal Of Wuhan University Of Technology 2023**
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025 MEIS Workshop</div><video src='videos/MEIS.mp4' autoplay loop muted controls style='width:100%; max-width:100%;'></video></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Benchmarking Generalizable Bimanual Manipulation: RoboTwin Dual-Arm Collaboration Challenge at CVPR 2025 MEIS Workshop](https://arxiv.org/pdf/2506.23351)
+
+ All Participants. 
+ - **CVPR 2025 MEIS Workshop**
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">World Electric Vehicle Journal 2023</div><img src='images/yolov5.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[An FPGA-Based Hardware Low-Cost, Low-Consumption Target-Recognition and Sorting System](https://www.mdpi.com/2032-6653/14/9/245)
+
+Yulu Wang, Yi Han, **Jun Chen**, Zhou Wang, Yi Zhong. **World Electric Vehicle Journal 2023**, (Second Student Author).
+- **World Electric Vehicle Journal 2023**
+</div>
+</div>
+
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IISA 2022</div><img src='images/yolov5.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Classification and Positioning of Circuit Board Components Based on Improved YOLOv5](https://www.sciencedirect.com/science/article/pii/S1877050922015265)
+
+**Jun Chen†**, Erdemt Bao, Jingyu Pan.
+- **IISA 2022**
+</div>
+</div>
+
+
 
 # 🧵 Projects 
 
