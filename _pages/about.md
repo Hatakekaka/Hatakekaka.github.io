@@ -25,8 +25,6 @@ I am Jun Chen, currently pursuing a Master's degree at the School of Information
 
 If you are interested in my work and projects, please feel free to [contact me](mailto:junchen@std.uestc.edu.cn) to discuss further.
 
-I am currently looking for opportunities to apply for Fall 2027 PhD programs.
-
 </div>
 
 {% comment %}
